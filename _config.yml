@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: 3Dots IT Solutions
 description: A startup company to build smart systems
@@ -18,3 +19,6 @@ google-analytics:
   id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
+=======
+theme: jekyll-theme-cayman
+>>>>>>> ff7e0d033934dd72f648b3e65ef11c935451e779
